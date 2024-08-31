@@ -36,7 +36,7 @@ For those who wish to use gitstatus without a theme, there is
 [gitstatus.prompt.zsh](gitstatus.prompt.zsh). Install it as follows:
 
 ```zsh
-git clone --depth=1 https://github.com/romkatv/gitstatus.git ~/gitstatus
+git clone --depth=1 https://github.com/nttams/gitstatus.git ~/gitstatus
 echo 'source ~/gitstatus/gitstatus.prompt.zsh' >>! ~/.zshrc
 ```
 
